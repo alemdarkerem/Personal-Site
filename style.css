@@ -67,6 +67,15 @@ body {
     text-align: left;
     gap: 2rem;
   }
+  .grid-elite {
+    display: grid;
+    grid-template-columns: auto auto;
+    /* grid-template-rows: repeat(1, 1fr); */
+    width: 100%;
+    margin: 100px auto 0 auto;
+    gap: 1rem;
+    text-align: center;
+  }
   .gamer {
     height: 346px;
   }
@@ -112,4 +121,13 @@ body {
     grid-template-columns: 1fr;
     text-align: center;
     }
+    .elite-parquet-project {
+        text-align: center;
+        margin: auto;
+    }
+    .grid-elite {
+        grid-template-columns: 1fr;
+        text-align: center;
+      }
+
 }
