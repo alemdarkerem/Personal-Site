@@ -39,7 +39,8 @@ h3 {
   align-items: center;
 }
 .middle-container {
-  margin: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 .profile-pic {
   height: 200px;
@@ -133,9 +134,21 @@ a {
   .about-me-text {
     width: 60%;
   }
-  .elite-parquet-project {
+  .project-title {
     text-align: center;
     margin: auto;
+  }
+  .project-images {
+    width: 100%;
+  }
+  .title-img {
+    width: 100%;
+  }
+  .middle-img {
+    width: 80%;
+  }
+  .grid-container {
+    width: 100%;
   }
 
 }
