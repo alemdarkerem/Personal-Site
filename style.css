@@ -117,6 +117,10 @@ a {
 .margin-top {
   margin-top: 50px;
 }
+.simon {
+  height: 485px;
+  width: 800px;
+}
 
 @media (max-width:1550px) {
   .grid-elite {
@@ -146,9 +150,6 @@ a {
   }
   .middle-img {
     width: 80%;
-  }
-  .grid-container {
-    width: 100%;
   }
 
 }
