@@ -110,6 +110,9 @@ a {
 .project-images {
   border: 8px solid black;
 }
+.info-text {
+  width: 50%;
+}
 .button:hover {
   background: #304d30;
   text-decoration: none;
